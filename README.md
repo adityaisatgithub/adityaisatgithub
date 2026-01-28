@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am working as Full Stack Developer.<br>I am working in Cognizant Technology Solution.<br>I have more that 3.5 year of experience.
+Hi 👋 I'm Aditya Kumar
+
+🚀 Full Stack Developer (React | React Native | Spring Boot | Node.js)
+💡 Building scalable SaaS applications & microservices
+☁️ AWS-focused backend developer
+📍 3.5+ years experience in Web + Mobile Development
+
 
 
 ## 🌐 Socials:
